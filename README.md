@@ -11,7 +11,7 @@
 
 
 ## Technology Used :      
-   React,open-weather API
+   React
        
 ## Description :
   This is React App, which will take two input country and city from the user and provide the weather-report 
@@ -27,5 +27,5 @@
 ## 1.Bangalore Weather
 ![](https://github.com/niloy2019/weather-app/blob/master/Sample%20Image%20of%20the%20Project/BangaloreWeather.PNG)
 
-## 3.Kolkata Weather 
+## 2.Kolkata Weather 
 ![](https://github.com/niloy2019/weather-app/blob/master/Sample%20Image%20of%20the%20Project/KolkataWeather.PNG)
