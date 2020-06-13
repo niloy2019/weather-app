@@ -7,16 +7,15 @@
   Weather-App
 
 ## Objective : 
-  To Make an Software that helps the Customer to do Banking Transaction through Online . 
+   To Make an Application which gives the current weather of any location. 
 
 
 ## Technology Used :      
    React,open-weather API
        
 ## Description :
-  This is React App, which will provide weather of any location using open weather API .This App will take
-  two input country and city from the user and Provide the Weather of that location. This App is fully
-  respinsive .
+  This is React App, which will take two input country and city from the user and provide the weather 
+  of that location usng open-weather API. This App is fully respinsive .
   
  
 ## Visit : 
