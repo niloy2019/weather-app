@@ -7,14 +7,14 @@
   Weather-App
 
 ## Objective : 
-   To Make an Application which gives the current weather of any location. 
+   To Make an Application which shows the current weather-respot of selected city. 
 
 
 ## Technology Used :      
    React,open-weather API
        
 ## Description :
-  This is React App, which will take two input country and city from the user and provide the weather 
+  This is React App, which will take two input country and city from the user and provide the weather-report 
   of that location usng open-weather API. This App is fully respinsive .
   
  
